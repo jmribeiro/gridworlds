@@ -1,0 +1,3 @@
+from environments.predator_prey.agents.BasePredator import BasePredator
+from environments.predator_prey.agents.GreedyPredator import GreedyPredator
+from environments.predator_prey.agents.TeammateAwarePredator import TeammateAwarePredator

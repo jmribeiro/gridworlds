@@ -1,0 +1,2 @@
+from environments.level_based_foraging.agents.ClosestAppleForager import ClosestAppleForager
+from environments.level_based_foraging.agents.MaxLevelForager import MaxLevelForager
